@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository on github , and it will allow me to improve my comprehension of this tool.
+This is my first repository on github , and it will allow me to improve my comprehension of this tool. I'm Marc and I really appreciate learning new things. I'm learning right now web development, so it will allow me to get a god job because we are in 21st century and the world is becoming more and more digital. I could also get a bunch of opportunities worldwide that will  help me to earn more money and therefore change my lifestyle. 
